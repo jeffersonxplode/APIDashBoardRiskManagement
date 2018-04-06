@@ -1,0 +1,2 @@
+class Risco < ApplicationRecord
+end

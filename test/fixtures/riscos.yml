@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  description: MyText
+  probability_of_happen: 1.5
+  impact: 1.5
+  severity: 1.5
+  treatment: MyString
+  category: MyString
+  residual_risk: MyText
+  occurences: 1
+
+two:
+  name: MyString
+  description: MyText
+  probability_of_happen: 1.5
+  impact: 1.5
+  severity: 1.5
+  treatment: MyString
+  category: MyString
+  residual_risk: MyText
+  occurences: 1
