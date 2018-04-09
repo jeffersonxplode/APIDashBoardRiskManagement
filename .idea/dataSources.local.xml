@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails RiskDB: test" uuid="84c9c09e-d4a2-49c2-b4bd-d17bb2bdaa95">
+      <database-info product="PostgreSQL" version="9.5.12" jdbc-version="4.2" driver-name="PostgreSQL JDBC Driver" driver-version="42.1.1">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
+      <user-name>xplode</user-name>
+      <introspection-schemas>RiskDB:public</introspection-schemas>
+    </data-source>
+    <data-source name="Rails RiskDB: production" uuid="4ce40e0d-17e1-4b11-b7ea-e15d8fe4d36b">
+      <database-info product="PostgreSQL" version="9.5.12" jdbc-version="4.2" driver-name="PostgreSQL JDBC Driver" driver-version="42.1.1">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
+      <user-name>xplode</user-name>
+      <introspection-schemas>RiskDB:public</introspection-schemas>
+    </data-source>
+    <data-source name="Rails RiskDB: development" uuid="e1f8ce31-a9ce-4cb1-84c3-93b6ec69f187">
+      <database-info product="PostgreSQL" version="9.5.12" jdbc-version="4.2" driver-name="PostgreSQL JDBC Driver" driver-version="42.1.1">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>xplode</user-name>
+      <introspection-schemas>RiskDB:public</introspection-schemas>
+    </data-source>
+  </component>
+</project>

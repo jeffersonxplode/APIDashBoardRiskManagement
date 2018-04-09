@@ -1,0 +1,2 @@
+class RiskCountning < ApplicationRecord
+end

@@ -1,0 +1,2 @@
+class RiskDoc < ApplicationRecord
+end
